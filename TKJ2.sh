@@ -15,31 +15,20 @@
 troll(){
     clear
     sleep 0.03       
-    echo "       `NNNNNNNNNNNNN.NNNd     hNNN`         hNNN`        /NNNNNNNNNNNNh "    
-    sleep 0.03        
-    echo "       :MMMMMMMMMMMMd:MMMs    `MMMd         `MMMd         yMMMMMMMMMMMM+ "    
-    sleep 0.03        
-    echo "       yMMMMMMMMMMMMoyMMM-    /MMMo         /MMMo         NMMMMMMMMMMMM. "    
-    sleep 0.03        
-    echo "       yhhhmMMMmhhhh-NMMN     yMMM-         yMMM-        .hhhhhhhhdMMMm  "  
-    sleep 0.03          
-    echo "           yMMM:    -MMMy     NMMm          NMMm                  /MMMs  "  
-    sleep 0.03         
-    echo "           mMMN     oMMM/    :MMMs         :MMMs                  yMMM:  "
-    sleep 0.03             
-    echo "          -MMMy     mMMMhhhhhmMMM:         sMMM:        .hhhhhhhhhNMMN   "
-    sleep 0.03             
-    echo "          oMMM/    .MMMMMMMMMMMds`         mMMN`        oMMMMMMMMMMMMy   "
-    sleep 0.03            
-    echo "          dMMM`    +MMMmddddMMMh          .MMMh         dMMMddddddddd:   "
-    sleep 0.03            
-    echo "         .MMMh     hMMM.````mMMN``````````oMMM/        `MMMd........`    "
-    sleep 0.03            
-    echo "         +MMM+    `MMMd     sMMM/dddddddddNMMM`        /MMMNdddddddds    " 
-    sleep 0.03            
-    echo "         hMMM.    /MMMo     -MMMmMMMMMMMMMMMMd         hMMMMMMMMMMMM+    "
-    sleep 0.03             
-    echo "         yyyy     +yyy-      yyyyyyyyyyyyyyyy/         yyyyyyyyyyyyy.    "     
+    echo "  `------`-`  .-     .-`    .-----."
+    sleep 0.03
+    echo "  yNNNNNmsN:  mm`    dN`   .NNNNNNo" 
+    sleep 0.03
+    echo "  syNMyy+NN` :My    -Mh    -yyyyNM-"     
+    sleep 0.03
+    echo  "   `NN  :Md--yM/    sM+    ----:Mm" 
+    sleep 0.03
+    echo  "   /Ms  yMmdmMs`    mM`   .MNdddm+"
+    sleep 0.03
+    echo  "   hM- `NN.`/MyoooosMh    +Mmssss`"
+    sleep 0.03
+    echo  "   yy  .y+   yyyyyyyy:    oyyyyys"
+
     sleep 0.03
     echo " ============================="
     sleep 2
