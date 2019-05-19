@@ -32,7 +32,7 @@ troll(){
     sleep 0.03
     echo " ============================="
     sleep 2
-    echo " ==      Troll Project      =="
+    echo " ==      TKJ Project        =="
     sleep 0.7
     echo " ============================="
 }
@@ -51,14 +51,14 @@ load(){
 get_sms=$(curl -s http://zlucifer.com/api/sms.php)
 get_call=$(curl -s http://zlucifer.com/api/call.php)
 mulai (){
-    echo "Gunakan Troll Project Lagi?"
+    echo "Gunakan TKJ Project Lagi?"
     echo "y/n?"
     echo
     read lagi
     if [ $lagi = "y" ]; then
             spam
     else
-            echo "Terimakasih sudah menggunakan Troll project"
+            echo "SAKALANGKONG BENYAK"
     fi
 }
 #spam
@@ -68,7 +68,7 @@ spam(){
     echo
     echo "[1] Spam SMS"
     echo "[2] Spam Telp"
-    echo "[3] Close Troll Project"
+    echo "[3] Close TKJ Project"
     echo
     echo "1/2/3?"
     read pilih
@@ -99,7 +99,7 @@ spam(){
                     echo " Gunakan tools dengan bijak"
                     echo
                     echo " Love u always "
-                    echo " -zLucifer"
+                    echo " -MRC"
                     echo "======================================="
             else
                     echo "Kesalahan"
@@ -139,14 +139,14 @@ spam(){
                   echo " Gunakan tools dengan bijak"
                   echo
                   echo " Love u always "
-                  echo " -zLucifer"
+                  echo " -MRC"
                   echo "========================================"
             else
                   echo Kesalahan, silahkan coba lagi
             fi
         mulai
     elif [ $pilih = "3" ]; then
-        echo "Terimakasih sudah menggunakan Troll project"
+        echo "Terimakasih sudah menggunakan TKJ project"
         close
     else
         clear
@@ -168,7 +168,7 @@ clear
 troll
 echo Selamat datang $nick ":)"
 echo
-echo "Mulai troll project?"
+echo "Mulai TKJ project?"
 echo "y/n?"
 read mulai
 if [ $mulai = "y" ]; then
